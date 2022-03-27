@@ -278,7 +278,7 @@ Finish Estimation With Sequential Estimation and Error Ellipses; Examine Correla
 ([PDF]({{< baseurl >}}/resources/12_215_lec14))
 {{< tdclose >}}
 {{< tdopen >}}
-The time series and correlation values plotted in this lecture were generated with cross.f ([F](/courses/earth-atmospheric-and-planetary-sciences/12-215-modern-navigation-fall-2006/lecture-notes/cross.f))
+The time series and correlation values plotted in this lecture were generated with cross.f ([F]({{< baseurl >}}/resources/cross))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,9 +318,9 @@ GPS Pseudo-range Measurements and Basic Principles of GPS
 
 We use the following Matlab files in this lecture:
 
-GPSSim.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-215-modern-navigation-fall-2006/lecture-notes/GPSSim.m))
+GPSSim.m ([M]({{< baseurl >}}/resources/gpssim))
 
-xcor.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-215-modern-navigation-fall-2006/lecture-notes/xcor.m))
+xcor.m ([M]({{< baseurl >}}/resources/xcor))
 
 
 {{< tdclose >}}
