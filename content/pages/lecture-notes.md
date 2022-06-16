@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section includes the lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 2b55d2f5-0800-386c-0466-5c81d2b5787e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -34,7 +39,7 @@ LINKS AND SUPPLEMENTARY FILES
 Introduction and Coordinate Systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec01))
+({{% resource_link 3e4a7694-ef10-08a2-d375-81e2c0d801fe "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -49,7 +54,7 @@ Introduction and Coordinate Systems
 Definitions of the Types of Latitude and Longitude; Mathematical Relationship Between These and Cartesian XYZ; Motion of the Rotation Axis, Which Affects Determination of Latitude and Longitude
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec02))
+({{% resource_link 10ed0c71-305c-d32a-f8b4-4720195d31b5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -72,7 +77,7 @@ Definitions of the Types of Latitude and Longitude; Mathematical Relationship Be
 Height Definitions, Methods for Determining Heights, Spirit Leveling and Trigonometric Leveling; Geoid Heights and Their Determination
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec03))
+({{% resource_link 9c7212a8-eb59-e31f-a12e-8491667da766 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [NGS Geoid Site](http://www.ngs.noaa.gov/cgi-bin/GEOID_STUFF/geoid99_prompt1.prl)
@@ -93,7 +98,7 @@ Derivations and Examples
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec04))
+({{% resource_link b49ef234-eee6-8c7a-9bd5-423d0b9ef990 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Spherical Trigonometry](http://mathworld.wolfram.com/SphericalTrigonometry.html)
@@ -108,7 +113,7 @@ Derivations and Examples
 Determination of Latitude and Longitude Using Astronomical Methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec05))
+({{% resource_link d0abc060-b2e3-0625-ec40-b4fa497746be "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Equation of Time](http://www.astronomynotes.com/nakedeye/s9.htm)
@@ -123,7 +128,7 @@ Determination of Latitude and Longitude Using Astronomical Methods
 Almanacs in Paper and Electronic Form
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec06))
+({{% resource_link 044ab491-bafa-c0b0-fee4-ce772cbff4ad "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -150,7 +155,7 @@ Almanacs in Paper and Electronic Form
 Dead Reckoning and Sextants
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec07))
+({{% resource_link 2fab2223-4882-06e2-c12d-9b84f4e4b91c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -177,7 +182,7 @@ Dead Reckoning and Sextants
 Review of Linear Algebra Covering Vectors and Matrices, Solving Linear Equations, Vector Spaces, Eigenvalues and Vectors, Rotation Matrices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec08))
+({{% resource_link 992efdb2-fd62-0f0e-eda1-1732617ee5a9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Square Matrix ([M](http://web.mit.edu/18.06/www/Course-Info/Mfiles/slu.m))
@@ -192,7 +197,7 @@ Square Matrix ([M](http://web.mit.edu/18.06/www/Course-Info/Mfiles/slu.m))
 Sextant Measurements
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec09))
+({{% resource_link dcaf68e0-1e7e-15e2-006e-7cb0d96cbccd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -207,7 +212,7 @@ Sextant Measurements
 Map Projections of Different Types and The Mathematics Behind Some Projections
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec10))
+({{% resource_link a33cd630-4e0e-43da-9b76-3fe8c762fde2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -230,7 +235,7 @@ Map Projections of Different Types and The Mathematics Behind Some Projections
 Statistics and Propagation of Variance-covariance Matrices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec11))
+({{% resource_link 9461d913-f595-d953-175f-852847a6ff83 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -245,7 +250,7 @@ Statistics and Propagation of Variance-covariance Matrices
 Estimation of Over-determined, Nearly Linear Systems Including Least and Weighted Least Squares
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec12))
+({{% resource_link 855e772c-57a4-959b-41a2-542be48a3223 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -260,7 +265,7 @@ Estimation of Over-determined, Nearly Linear Systems Including Least and Weighte
 Examined HW 02 Solution and the Non-Linear Model That Can be Used to Represent the Measurements Taken
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec13))
+({{% resource_link 02aee9a0-4e00-2422-18e7-7069a27b3ce5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -275,10 +280,10 @@ Examined HW 02 Solution and the Non-Linear Model That Can be Used to Represent t
 Finish Estimation With Sequential Estimation and Error Ellipses; Examine Correlations Between Random Time Series
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec14))
+({{% resource_link ebf95e61-4809-b2c2-67a9-d0ee56d0fa60 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-The time series and correlation values plotted in this lecture were generated with cross.f ([F]({{< baseurl >}}/resources/cross))
+The time series and correlation values plotted in this lecture were generated with cross.f ({{% resource_link 2543eae7-0ea0-dcda-d880-0f9621bb0ae1 "F" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +301,7 @@ Conventional Instruments and Theory of Their Operation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec15))
+({{% resource_link 35b10053-320f-79b7-bc4c-93a01efc4f31 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -311,16 +316,16 @@ Conventional Instruments and Theory of Their Operation
 GPS Pseudo-range Measurements and Basic Principles of GPS
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec16))
+({{% resource_link cbab89d4-f7d7-fd21-9488-59c3db7558ba "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 We use the following Matlab files in this lecture:
 
-GPSSim.m ([M]({{< baseurl >}}/resources/gpssim))
+GPSSim.m ({{% resource_link 03bfa3b8-f79b-9f6a-19a1-63b57d2a8ce0 "M" %}})
 
-xcor.m ([M]({{< baseurl >}}/resources/xcor))
+xcor.m ({{% resource_link 7b66ec1c-91a9-3e2b-bf3d-e109d89ace0a "M" %}})
 
 
 {{< tdclose >}}
@@ -334,7 +339,7 @@ xcor.m ([M]({{< baseurl >}}/resources/xcor))
 GPS Signal Tracking, Orbit Geometry, Specific Signal Structure, Phase Measurements and Data
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec17))
+({{% resource_link 88cb8b48-6ca6-6bd7-14ca-004fd09dd745 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -349,7 +354,7 @@ GPS Signal Tracking, Orbit Geometry, Specific Signal Structure, Phase Measuremen
 GPS Pseudo Range and Phase measurements, basic processing methods, Dilution of Precision Measures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec18))
+({{% resource_link aa946e6a-0103-9b75-97f5-4e68e6b6e708 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -364,7 +369,7 @@ GPS Pseudo Range and Phase measurements, basic processing methods, Dilution of P
 Atmosphere Delay Effects
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec19))
+({{% resource_link 8ed8b40a-2399-47e9-703c-05c22a1fda5d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -385,7 +390,7 @@ Atmosphere Delay Effects
 Ionosphere and Dispersive GPS Delay Correction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec20))
+({{% resource_link f2d462ff-bbdc-77b1-29fa-54e332ee6b1b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -400,7 +405,7 @@ Ionosphere and Dispersive GPS Delay Correction
 Satellite Orbit Representation and Sources of Information about Orbits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec21))
+({{% resource_link 37fb8d2b-71b4-7907-e81a-54c35d39017b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -429,7 +434,7 @@ Class Outside Using GPS
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec22))
+({{% resource_link c4b27677-e0d6-5d1b-488e-1c84bd194325 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -444,7 +449,7 @@ Class Outside Using GPS
 Applications of GPS
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12_215_lec23))
+({{% resource_link 10913327-58d5-b5ac-86de-dfa66d033cef "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
