@@ -5,6 +5,7 @@ file: /courses/12-215-modern-navigation-fall-2006/03bfa3b8f79b9f6a19a163b57d2a8c
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supplementary file for lecture 16.
-

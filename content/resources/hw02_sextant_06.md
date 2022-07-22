@@ -5,6 +5,7 @@ file: /courses/12-215-modern-navigation-fall-2006/df11f503e8a078f9b8b6e2be32e576
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a matlab file accompanying homework #2.
-
