@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is supplementary file for lecture 16.
 file: /courses/12-215-modern-navigation-fall-2006/7b66ec1c91a93e2bbf3de109d89ace0a_xcor.m
+file_size: 12074
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
