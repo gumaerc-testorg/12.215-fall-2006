@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource is a matlab file accompanying homework #2.'
 file: /courses/12-215-modern-navigation-fall-2006/df11f503e8a078f9b8b6e2be32e57655_hw02_sextant_06.m
+file_size: 3746
 file_type: text/plain
 learning_resource_types:
 - Assignments

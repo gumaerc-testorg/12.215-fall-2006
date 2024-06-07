@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource a data file accompanying homework #2.'
 file: /courses/12-215-modern-navigation-fall-2006/b1bb40222d221a85df38ef4227165e50_sextant_061025.txt
+file_size: 609
 file_type: text/plain
 learning_resource_types:
 - Assignments
