@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplementary file for lecture 16.
-file: /ol-ocw-studio-app/courses/12-215-modern-navigation-fall-2006/03bfa3b8f79b9f6a19a163b57d2a8ce0_GPSSim.m
+file: /courses/12-215-modern-navigation-fall-2006/03bfa3b8f79b9f6a19a163b57d2a8ce0_GPSSim.m
 file_size: 2854
 file_type: text/plain
 learning_resource_types:
