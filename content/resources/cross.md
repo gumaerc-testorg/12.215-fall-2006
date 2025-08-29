@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Program to generate cross correlation with and without noise.
-file: /courses/12-215-modern-navigation-fall-2006/2543eae70ea0dcdad8800f9621bb0ae1_cross.f
+file: /ol-ocw-studio-app/courses/12-215-modern-navigation-fall-2006/2543eae70ea0dcdad8800f9621bb0ae1_cross.f
 file_size: 4434
 file_type: text/plain
 learning_resource_types:
